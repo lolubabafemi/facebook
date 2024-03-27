@@ -3,5 +3,10 @@ body {
 }
 
 img {
-    width: 30%
+    width: 30%;
+}
+
+.box {
+    width: 60%;
+    border: solid 3px black;
 }
