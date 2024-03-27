@@ -12,6 +12,7 @@ img {
     border: solid 3px black;
     margin: 0% 30% 0% 30%;
     border-radius: 10px;
+    background-color: white;
 }
 
 .litf {
@@ -28,6 +29,7 @@ img {
     border-radius: 5px;
     padding-top: 20px;
     padding-left:20px;
+    border: solid 0.5px #dddfe2;
 }
 
 /* .pass {
