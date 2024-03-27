@@ -24,7 +24,7 @@ img {
     height: 60px;
     margin: 20px 10% 20px 10%;
     border-radius: 5px;
-    padding-left: 10px;
+    padding-left: auto 20px;
 }
 
 /* .pass {
