@@ -14,13 +14,20 @@ img {
 }
 
 .litf {
-    font-size: 3rem;
+    font-size: 1.5rem;
 }
 
 .bo {
     text-align: left;
+    background-color: #e8f0fe;
+    width: 80%;
+    margin: 0 10% 0 10%;
+
 }
 
 .pass {
     text-align: left;
+    background-color: #e8f0fe;
+    width: 80%;
+    margin: 0 10% 0 10%;
 }
