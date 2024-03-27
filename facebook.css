@@ -14,5 +14,13 @@ img {
 }
 
 .litf {
+    font-size: 1rem;
+}
+
+.bo {
+    text-align: left;
+}
+
+.pass {
     text-align: left;
 }
