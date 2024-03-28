@@ -86,7 +86,7 @@ img {
     display: block;
     position: absolute;
     top: 50%;
-    left: 10%;
+    left: 5%;
   }
   
   .or:after{
@@ -97,5 +97,5 @@ img {
     display: block;
     position: absolute;
     top: 50%;
-    right: 10%;
+    right: 5%;
   }
