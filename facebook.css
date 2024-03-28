@@ -7,7 +7,8 @@ body {
 
 img {
     width: 15%;
-    margin-bottom: 10px;
+    margin: 10px;
+    margin-bottom: 5px;
 }
 
 .box {
@@ -44,7 +45,7 @@ img {
     color: white;
     background-color: #1877f2;
     border-radius: 5px;
-    width: 70%;
+    width: 80%;
     height: 40px;
     margin: 20px auto;
     padding: 10px auto;
@@ -52,6 +53,7 @@ img {
 
 .fa {
     color: #1877f2;
+    text-decoration: underline;
 }
 /* .pass {
     text-align: left;
