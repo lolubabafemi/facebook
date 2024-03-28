@@ -7,7 +7,7 @@ body {
 
 img {
     width: 15%;
-    margin-bottom: -20px;
+    margin-bottom: 10px;
 }
 
 .box {
@@ -50,7 +50,9 @@ img {
     padding: 10px auto;
 }
 
-
+.fa {
+    color: #1877f2;
+}
 /* .pass {
     text-align: left;
     background-color: #e8f0fe;
