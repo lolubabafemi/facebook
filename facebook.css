@@ -44,6 +44,7 @@ img {
     font-size: 1.1rem;
     color: white;
     background-color: #1877f2;
+    border: none;
     border-radius: 5px;
     width: 75%;
     height: 40px;
@@ -51,10 +52,13 @@ img {
 }
 
 .cana {
+    font-size: 1.1rem;
+    color: white;
     background-color: #42b72a;
     border-radius: 5px;
     width: 75%;
-    
+    border: none;
+    height: 40px;    
 }
 
 .fa {
