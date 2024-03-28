@@ -74,28 +74,28 @@ img {
 .or{
     position: relative;
     max-width: 90%;
-    margin: 5px 2px;
+    margin: 10px 2px;
     text-align: center;
   }
   
   .or:before{
     content:" ";
-    height: 2px;
+    height: 1px;
     width: 130px;
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
     top: 50%;
-    left: 0;
+    left: 10%;
   }
   
   .or:after{
     content:" ";
-    height: 2px;
+    height: 1px;
     width: 130px;
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
     top: 50%;
-    right: 0;
+    right: 10%;
   }
