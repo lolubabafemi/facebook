@@ -79,7 +79,6 @@ img {
   }
   
   .or:before{
-    margin-left: 5%;
     content:" ";
     height: 1px;
     width: 30%;
