@@ -76,17 +76,38 @@ img {
       }
 
 
-.or {
+/* .or {
     border-left: 2px solid black; /* Adjust thickness and color of left line */
     border-right: 2px solid black; /* Adjust thickness and color of right line */
     padding: 0 10px; /* Adjust padding to control spacing between text and lines */
     display: inline-block; /* Ensure the container doesn't take up full width */
-}
-
-/* .pass {
-    text-align: left;
-    background-color: #e8f0fe;
-    width: 80%;
-    margin: 20% 10% 20% 10%;
-}
 } */
+
+.or{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+  }
+  
+  .or:before{
+    content:" ";
+    height: 2px;
+    width: 130px;
+    background: red;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+  }
+  
+  .or:after{
+    content:" ";
+    height: 2px;
+    width: 130px;
+    background: red;
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+  }
