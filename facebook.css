@@ -76,24 +76,13 @@ img {
       }
 
 
-.or::after,
-.or::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 2px; /* Adjust thickness of the lines */
-        background-color: black; /* Adjust color of the lines */
-      }
+.or {
+    border-left: 2px solid black; /* Adjust thickness and color of left line */
+    border-right: 2px solid black; /* Adjust thickness and color of right line */
+    padding: 0 10px; /* Adjust padding to control spacing between text and lines */
+    display: inline-block; /* Ensure the container doesn't take up full width */
+}
 
-.or::before {
-        left: -10px; /* Adjust position of the left line */
-      }
-
-.or::after, {
-        right: -10px; /* Adjust position of the right line */
-      }
-      
 /* .pass {
     text-align: left;
     background-color: #e8f0fe;
