@@ -81,7 +81,7 @@ img {
   .or:before{
     content:" ";
     height: 1px;
-    width: 30%px;
+    width: 30%;
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
