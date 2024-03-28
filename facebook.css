@@ -59,6 +59,7 @@ img {
     width: 75%;
     border: none;
     height: 40px;    
+    text-decoration: ;
 }
 
 .fa {
@@ -67,6 +68,15 @@ img {
 
 .fa:hover {
     text-decoration: underline;
+}
+
+.or::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -10px;
+    border-right: 2px solid black;
 }
 /* .pass {
     text-align: left;
