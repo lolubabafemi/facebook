@@ -74,7 +74,7 @@ img {
 .or {
     position: relative;
     max-width: 90%;
-    margin: 0px auto;
+    margin: 0px auto 10px;
     text-align: center;
   }
   
@@ -87,6 +87,7 @@ img {
     position: absolute;
     top: 50%;
     left: 5%;
+    margin-left: 5%;
   }
   
   .or:after{
@@ -98,4 +99,5 @@ img {
     position: absolute;
     top: 50%;
     right: 5%;
+    margin-right: 5%;
   }
