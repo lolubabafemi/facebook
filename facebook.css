@@ -74,7 +74,7 @@ img {
 .or{
     position: relative;
     max-width: 500px;
-    margin: 100px auto;
+    margin: 20px 10px;
     text-align: center;
   }
   
@@ -85,7 +85,7 @@ img {
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
-    top: 10%;
+    top: 50%;
     left: 0;
   }
   
@@ -96,6 +96,6 @@ img {
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
-    top: 10%;
+    top: 50%;
     right: 0;
   }
