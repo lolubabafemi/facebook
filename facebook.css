@@ -51,16 +51,7 @@ img {
     justify-content: center;
 }
 
-.cana {
-    font-size: 1.1rem;
-    color: white;
-    background-color: #42b72a;
-    border-radius: 5px;
-    width: 75%;
-    border: none;
-    height: 40px;    
-    text-decoration: none;
-}
+
 
 .fa {
     color: #1877f2;
@@ -87,7 +78,7 @@ img {
     position: absolute;
     top: 50%;
     left: 5%;
-    margin-left: 5%;
+    margin-left: 8%;
   }
   
   .or:after{
@@ -99,5 +90,17 @@ img {
     position: absolute;
     top: 50%;
     right: 5%;
-    margin-right: 5%;
+    margin-right: 8%;
   }
+
+  .cana {
+    font-size: 1.1rem;
+    color: white;
+    background-color: #42b72a;
+    border-radius: 5px;
+    width: 75%;
+    border: none;
+    height: 40px;    
+    text-decoration: none;
+    margin-bottom: 10px;
+}
