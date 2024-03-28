@@ -72,7 +72,7 @@ img {
 
 
 .or {
-    position: fixed;
+    position: absolute;
     max-width: 90%;
     /* margin: 10px 2px; */
     text-align: center;
