@@ -81,7 +81,7 @@ img {
   .or:before{
     content:" ";
     height: 1px;
-    width: 130px;
+    width: 30%px;
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
@@ -92,7 +92,7 @@ img {
   .or:after{
     content:" ";
     height: 1px;
-    width: 130px;
+    width: 30%;
     background: rgb(0, 0, 0);
     display: block;
     position: absolute;
