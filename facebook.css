@@ -70,14 +70,30 @@ img {
     text-decoration: underline;
 }
 
-.or::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: -10px;
-    border-right: 2px solid black;
-}
+
+.or {
+        position: relative;
+      }
+
+
+.or::after,
+.or::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 2px; /* Adjust thickness of the lines */
+        background-color: black; /* Adjust color of the lines */
+      }
+
+.or::before {
+        left: -10px; /* Adjust position of the left line */
+      }
+
+.or::after, {
+        right: -10px; /* Adjust position of the right line */
+      }
+      
 /* .pass {
     text-align: left;
     background-color: #e8f0fe;
