@@ -42,8 +42,11 @@ img {
     font-size: 1.1rem;
     color: white;
     background-color: #1877f2;
+    border-radius: 5px;
     width: 70%;
     height: 40px;
+    margin: 20px auto;
+    padding: auto;
 }
 
 
