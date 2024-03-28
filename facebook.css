@@ -47,9 +47,14 @@ img {
     border-radius: 5px;
     width: 75%;
     height: 40px;
-    margin: 20px auto;
-    padding: 30% auto;
     justify-content: center;
+}
+
+.cana {
+    background-color: #42b72a;
+    border-radius: 5px;
+    width: 75%;
+    
 }
 
 .fa {
