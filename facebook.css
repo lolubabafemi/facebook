@@ -14,8 +14,8 @@ img {
 .box {
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 5%;
-    padding-right: 5%;
+    /* padding-left: 5%;
+    padding-right: 5%; */
     width: 30%;
     margin: 0% 35%;
     border-radius: 10px;
