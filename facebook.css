@@ -36,7 +36,8 @@ img {
     height: 40px;
     margin: 20px auto;
     border-radius: 5px;
-    padding-top: 10px;
+    padding-top: auto;
+    padding-bottom: auto;
     padding-left: 20px;
     border: solid 0.5px #dddfe2;
 }
