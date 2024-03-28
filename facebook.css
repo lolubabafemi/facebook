@@ -54,6 +54,9 @@ img {
 
 .fa {
     color: #1877f2;
+}
+
+.fa:hover {
     text-decoration: underline;
 }
 /* .pass {
