@@ -71,18 +71,6 @@ img {
 }
 
 
-.or {
-        position: relative;
-      }
-
-
-/* .or {
-    border-left: 2px solid black; /* Adjust thickness and color of left line */
-    border-right: 2px solid black; /* Adjust thickness and color of right line */
-    padding: 0 10px; /* Adjust padding to control spacing between text and lines */
-    display: inline-block; /* Ensure the container doesn't take up full width */
-} */
-
 .or{
     position: relative;
     max-width: 500px;
