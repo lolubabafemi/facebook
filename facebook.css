@@ -59,7 +59,7 @@ img {
     width: 75%;
     border: none;
     height: 40px;    
-    text-decoration: ;
+    text-decoration: none;
 }
 
 .fa {
@@ -82,10 +82,10 @@ img {
     content:" ";
     height: 2px;
     width: 130px;
-    background: red;
+    background: rgb(0, 0, 0);
     display: block;
     position: absolute;
-    top: 50%;
+    top: 10%;
     left: 0;
   }
   
@@ -93,9 +93,9 @@ img {
     content:" ";
     height: 2px;
     width: 130px;
-    background: red;
+    background: rgb(0, 0, 0);
     display: block;
     position: absolute;
-    top: 50%;
+    top: 10%;
     right: 0;
   }
