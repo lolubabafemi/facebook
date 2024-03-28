@@ -49,6 +49,7 @@ img {
     height: 40px;
     margin: 20px auto;
     padding: 10px auto;
+    justify-content: center;
 }
 
 .fa {
