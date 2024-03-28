@@ -71,8 +71,8 @@ img {
 }
 
 
-.or{
-    position: relative;
+.or {
+    position: fixed;
     max-width: 90%;
     /* margin: 10px 2px; */
     text-align: center;
